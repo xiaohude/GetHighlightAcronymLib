@@ -1,0 +1,2 @@
+# GetHighlightAcronymLib
+匹配中文字符串的拼音首字母或英文字符串的首字母缩写
